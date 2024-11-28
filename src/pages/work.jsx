@@ -6,7 +6,7 @@ const Work = () => {
 
         <div class="card">
           <div class="image">
-            <img src="../public/img-nd-sec.png" alt="Designing Dashboards" />
+            <img src="../img-nd-sec.png" alt="Designing Dashboards" />
           </div>
           <div class="content">
             <h3>Designing Dashboards</h3>
@@ -26,7 +26,7 @@ const Work = () => {
 
         <div class="card">
           <div class="image">
-            <img src="../public/img-nd-sec2.png" alt="Vibrant Portraits" />
+            <img src="../img-nd-sec2.png" alt="Vibrant Portraits" />
           </div>
           <div className="content">
             <h3>Vibrant Portraits of 2020</h3>
@@ -46,7 +46,7 @@ const Work = () => {
 
         <div class="card">
           <div class="image">
-            <img src="../public/img-nd-sec3.png" alt="Vibrant Portraits" />
+            <img src="../img-nd-sec3.png" alt="Vibrant Portraits" />
           </div>
           <div className="content">
             <h3>36 Days of Malayalam type</h3>
@@ -66,7 +66,7 @@ const Work = () => {
 
         <div class="card">
           <div class="image">
-            <img src="../public/Rectangle 40.png" alt="Picture" />
+            <img src="../Rectangle 40.png" alt="Picture" />
           </div>
           <div className="content">
             <h3>Components</h3>
