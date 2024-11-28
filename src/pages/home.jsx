@@ -13,7 +13,7 @@ const Home = () => {
         </div>
 
         <div className="header-right-section">
-          <img src="./public/boy-img.png" alt="" />
+          <img src="../public/boy-img.png" alt="" />
         </div>
       </div>
 
@@ -67,7 +67,7 @@ const Home = () => {
 
         <div class="card">
           <div class="image">
-            <img src="public/img-nd-sec.png" alt="Designing Dashboards" />
+            <img src="../public/img-nd-sec.png" alt="Designing Dashboards" />
           </div>
           <div class="content">
             <h3>Designing Dashboards</h3>
@@ -87,7 +87,7 @@ const Home = () => {
 
         <div class="card">
           <div class="image">
-            <img src="./public/img-nd-sec2.png" alt="Vibrant Portraits" />
+            <img src="../public/img-nd-sec2.png" alt="Vibrant Portraits" />
           </div>
           <div className="content">
             <h3>Vibrant Portraits of 2020</h3>
@@ -107,7 +107,7 @@ const Home = () => {
 
         <div class="card">
           <div class="image">
-            <img src="./public/img-nd-sec3.png" alt="Vibrant Portraits" />
+            <img src="../public/img-nd-sec3.png" alt="Vibrant Portraits" />
           </div>
           <div className="content">
             <h3>36 Days of Malayalam type</h3>
